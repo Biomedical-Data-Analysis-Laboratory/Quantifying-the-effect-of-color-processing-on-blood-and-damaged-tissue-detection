@@ -3,7 +3,13 @@ This repository contains Source code for the paper "Quantifying the effect of co
 
 Published Version = https://ieeexplore.ieee.org/abstract/document/9816283
 # Requirements 
-
+- Histocartography
+- Histolab
+- Pytorch
+- Scikit-learn
+- Pandas
+- Numpy
+  
 # Abstract 
 Histological tissue examination has been a longstanding practice for cancer diagnosis, where pathologists identify the presence of tumors on glass slides. Slides acquired from laboratory routines may contain unintentional artifacts due to complications in surgical resection. Blood and damaged tissue artifacts are two common problems associated with transurethral resection of the bladder tumor. Differences in histotechnical procedures among laboratories may also result in color variations and minor inconsistencies in outcome. A digitized version of a glass slide known as a whole slide image (WSI) holds enormous potential for automated diagnostics. The presence of irrelevant areas in a WSI undermines diagnostic value for pathologists as well as computational pathology (CPATH) systems. Therefore, automatic detection and exclusion of diagnostically irrelevant areas may lead to more reliable predictions. In this paper, we are detecting blood and damaged tissue against diagnostically relevant tissue. We gauge the effectiveness of transfer learning against training from scratch. The best models give 0.99 and 0.89 F1 scores for blood and damaged tissue detection. Since blood and damaged tissue have subtle color differences, we assess the impact of color processing methods on the binary classification performance of five well-known architectures. Finally, we remove the color to understand its importance against morphology on classification performance.
 
