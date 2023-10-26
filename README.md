@@ -40,7 +40,10 @@ The dataset is currently private. If you plan to use your dataset, then organize
 
 
 # How to use the code
-
+- Process directory contains code to create color processed version of dataset.
+- Use main.py to select and train DCNN model. Hyperparametric selection can be defined inside the header of the file.
+- Use Inference.py to update path to experiment directory and test on new data.
+  
 If you use this code or build on top of it, then please cite our paper.
 ```
 @inproceedings{kanwal2022quantifying,
