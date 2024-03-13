@@ -21,7 +21,11 @@ Histological tissue examination has been a longstanding practice for cancer diag
 <img width="610" alt="image" src="https://github.com/NeelKanwal/Quantifying-the-effect-of-color-processing-on-blood-and-damaged-tissue-detection/assets/52494244/ee56d7e7-1907-4f9e-a21c-ab7abfa334a2">
 
 # Dataset
-The dataset is currently private. If you plan to use your dataset, then organize it with the following structure: An example of a blood artifact is shown below.
+The dataset is publicaly available at Zenodo. https://zenodo.org/records/10809442. 
+
+You can use D40x directory and corresponding folders with artifacts to organize in the following order.
+
+If you plan to use your dataset, then organize it with the following structure: An example of a blood artifact is shown below.
 
 <img width="228" alt="image" src="https://github.com/NeelKanwal/Quantifying-the-effect-of-color-processing-on-blood-and-damaged-tissue-detection/assets/52494244/99a8a908-5da0-41a6-b280-ebe7864d6533">
 
