@@ -59,3 +59,8 @@ If you use this code or build on top of it, then please cite our paper.
   organization={IEEE}
 }
 ```
+
+Other works on HistoArtifact datasets:
+1. Equipping-Computational-Pathology-Systems-with-Artifact-Processing-Pipeline : https://github.com/NeelKanwal/Equipping-Computational-Pathology-Systems-with-Artifact-Processing-Pipeline
+2. Quantifying-the-effect-of-color-processing-on-blood-and-damaged-tissue-detection: https://github.com/NeelKanwal/Quantifying-the-effect-of-color-processing-on-blood-and-damaged-tissue-detection
+3. Are you sure it’s an artifact? Artifact detection and uncertainty quantification in histological images: https://github.com/NeelKanwal/DeepKernelLearning
